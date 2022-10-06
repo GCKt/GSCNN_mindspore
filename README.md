@@ -1,1 +1,2 @@
-# GSCNN_mindspore
+# NewGSCNN
+
